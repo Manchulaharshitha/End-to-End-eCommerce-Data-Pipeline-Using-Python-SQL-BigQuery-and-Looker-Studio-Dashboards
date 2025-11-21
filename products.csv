@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,price,stock_quantity
+1,Bajaj Room Heater,Home & Kitchen,Bajaj,11495.91,477
+2,Canon EOS R6,Electronics,Canon,34253.53,287
+3,iPhone 14 Pro,Electronics,iPhone,26597.09,326
+4,Adidas Gym Bag,Sports & Fitness,Adidas,55780.22,446
+5,Allen Solly Trousers,Clothing,Allen,32737.66,103
+6,Puma Hoodie,Clothing,Puma,63499.09,28
+7,Adidas T-Shirt,Clothing,Adidas,59614.32,400
+8,Sony PlayStation 5,Electronics,Sony,26257.1,45
+9,Apple Watch Series 8,Electronics,Apple,77021,448
+10,Nilkamal Chair,Home & Kitchen,Nilkamal,9358.83,147
+11,Philips Air Fryer,Home & Kitchen,Philips,40969.9,432
+12,iPad Air,Electronics,iPad,33024.45,194
+13,Milton Water Bottle,Home & Kitchen,Milton,32166.78,348
+14,Ikigai: Japanese Secret,Books,Ikigai:,24246.91,484
+15,OnePlus 11,Electronics,OnePlus,61613.23,41
+16,Nivia Running Shoes,Sports & Fitness,Nivia,54938.05,92
+17,Godrej Almirah,Home & Kitchen,Godrej,48211.35,130
+18,Nike Air Max Shoes,Clothing,Nike,14956.2,199
+19,Strauss Resistance Bands,Sports & Fitness,Strauss,24513.32,478
+20,The Subtle Art,Books,The,57706.98,290
+21,Cello Storage Containers,Home & Kitchen,Cello,19998.48,171
+22,Levi's Jeans,Clothing,Levi's,75902.82,402
+23,Sapiens by Yuval Harari,Books,Sapiens,5316.63,425
+24,Fitbit Charge 5,Sports & Fitness,Fitbit,3178.39,166
+25,Prestige Pressure Cooker,Home & Kitchen,Prestige,36283.48,38
+26,Zara Dress,Clothing,Zara,19224.16,487
+27,Cosco Cricket Bat,Sports & Fitness,Cosco,51175.05,372
+28,The Psychology of Money,Books,The,28525.61,340
+29,Samsung Galaxy S23,Electronics,Samsung,45080.04,457
+30,Atomic Habits by James Clear,Books,Atomic,82333.92,239
+31,Usha Fan,Home & Kitchen,Usha,13114.58,76
+32,US Polo Assn Shirt,Clothing,US,22421.49,292
+33,Havells Mixer Grinder,Home & Kitchen,Havells,48645.26,387
+34,Kindle Paperwhite,Electronics,Kindle,52736.36,464
+35,Boldfit Gym Gloves,Sports & Fitness,Boldfit,52641.9,190
+36,Dell XPS 15 Laptop,Electronics,Dell,19972.07,75
+37,Yonex Badminton Racket,Sports & Fitness,Yonex,46003.51,51
+38,Bata Sandals,Clothing,Bata,68092.66,445
+39,Sony WH-1000XM5 Headphones,Electronics,Sony,10134.53,326
+40,Zero to One by Peter Thiel,Books,Zero,14649.39,353
+41,Protoner Dumbbells,Sports & Fitness,Protoner,38166.75,37
+42,The Alchemist,Books,The,34812.63,310
+43,Levis Denim Jacket,Clothing,Levis,89651.09,275
+44,GoPro Hero 11,Electronics,GoPro,22850.85,288
+45,Nintendo Switch,Electronics,Nintendo,77510.94,10
+46,Rich Dad Poor Dad,Books,Rich,61320.42,63
+47,Deep Work by Cal Newport,Books,Deep,61448.42,279
+48,Raymond Formal Shirt,Clothing,Raymond,67652.74,398
+49,Decathlon Yoga Mat,Sports & Fitness,Decathlon,57793.27,62
+50,H&M Jacket,Clothing,H&M,26625.96,85

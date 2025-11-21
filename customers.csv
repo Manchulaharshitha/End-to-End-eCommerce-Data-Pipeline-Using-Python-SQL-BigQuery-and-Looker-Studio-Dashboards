@@ -1,0 +1,101 @@
+customer_id,name,email,phone,city,state,signup_date
+1,Aryan Maharaj,udantdewan@example.net,9.18196E+11,Kishanganj,Gujarat,30-05-2025
+2,Thomas Sen,abeer26@example.com,2351161559,Varanasi,Telangana,11-11-2024
+3,Kritika Brar,janaki93@example.net,9.10341E+11,Uluberia,Kerala,01-05-2024
+4,Ekbal Garg,nihalshere@example.com,8350305641,Tezpur,Tamil Nadu,22-07-2024
+5,Xalak Randhawa,qdhar@example.org,9.1885E+11,Mysore,Tripura,27-12-2023
+6,Michael Dutta,ybhatt@example.com,7848018451,Raebareli,Goa,07-11-2024
+7,Adya Tella,yashicacherian@example.net,8932528809,Unnao,Andhra Pradesh,15-02-2024
+8,Damyanti Khatri,khoslafarhan@example.org,7182278248,Rajpur Sonarpur,Nagaland,29-06-2025
+9,Devika Rastogi,raksha87@example.org,9.13151E+11,Allahabad,Haryana,12-01-2024
+10,Ganga Bobal,aryasunder@example.org,2997376311,Raichur,Maharashtra,05-10-2024
+11,Chatura Chaudhari,rauharinakshi@example.org,9.13387E+11,Mango,Uttar Pradesh,20-09-2025
+12,Chandresh Zachariah,chanderwarjas@example.org,7736026064,Baranagar,Maharashtra,15-05-2025
+13,Mohammed Gupta,teerth09@example.net,500978820,Gaya,Assam,25-02-2025
+14,Wahab Raval,koshybalveer@example.net,9.16999E+11,Mira-Bhayandar,Sikkim,05-04-2025
+15,Tanvi Mutti,andratara@example.net,1183842513,Anantapuram,Goa,26-10-2024
+16,Abhiram Mistry,desaiaishani@example.org,9.18245E+11,Chandrapur,West Bengal,30-12-2023
+17,Pallavi Malhotra,aggarwalgauri@example.org,4278680112,Uluberia,Odisha,23-01-2025
+18,Qushi Datta,morarjanya@example.org,3315869232,Haridwar,Andhra Pradesh,08-04-2024
+19,Nisha Kothari,nathaniel16@example.org,3375433036,Alwar,West Bengal,13-01-2024
+20,Indali Upadhyay,vyadav@example.org,9.14294E+11,Medininagar,Mizoram,18-02-2024
+21,Ranveer Kumar,sarinaarav@example.net,3561595148,Alappuzha,Karnataka,28-09-2024
+22,Joshua Handa,rraghavan@example.net,9.19947E+11,Kirari Suleman Nagar,Manipur,29-10-2024
+23,Yasti Solanki,fradomander@example.net,9513433200,Fatehpur,Punjab,11-09-2025
+24,Tamanna Sachdeva,leenatalwar@example.com,9.12016E+11,Bhilai,Manipur,03-03-2024
+25,Edhitha Savant,ksehgal@example.net,7434873471,Noida,Himachal Pradesh,07-08-2024
+26,Faris Devi,vihaanrajagopal@example.net,9.13167E+11,Pali,Tripura,16-02-2025
+27,Lajita Sood,pandeychanchal@example.com,8893734670,Naihati,Sikkim,01-05-2025
+28,Noah Sibal,aviramesh@example.net,162720465,Malda,Karnataka,09-08-2024
+29,Arunima Sama,finn70@example.net,531003309,Mathura,Chhattisgarh,22-11-2024
+30,Tejas Shroff,jyoti29@example.net,1241904966,Aurangabad,Odisha,10-05-2025
+31,Harsh Mitra,barmanidika@example.net,5185067165,Jamnagar,Maharashtra,05-04-2024
+32,Veda Shroff,uloyal@example.org,9.14738E+11,South Dumdum,Meghalaya,03-05-2024
+33,Aarna Oak,anya80@example.net,9.11368E+11,Durg,Haryana,30-09-2024
+34,Damini Pillay,wwali@example.com,8557444313,Jamshedpur,Telangana,10-01-2025
+35,Rehaan Kalita,umalhotra@example.net,9413435240,Panipat,Arunachal Pradesh,02-01-2024
+36,Jonathan Swaminathan,arorabhavani@example.com,7520471167,Gangtok,Rajasthan,07-05-2025
+37,Max Dixit,frederick31@example.net,9993867749,Farrukhabad,Odisha,17-03-2025
+38,Hardik Johal,aishanibumb@example.org,9.12812E+11,Ahmednagar,Jharkhand,23-05-2025
+39,Sudiksha Bobal,aishanihora@example.com,9.18324E+11,Bahraich,Bihar,19-11-2024
+40,Neha Magar,fsarma@example.net,9.16594E+11,Gangtok,Arunachal Pradesh,05-07-2025
+41,Upma Venkataraman,lmall@example.net,7175655125,Shimla,Jharkhand,18-04-2025
+42,Balhaar Sha,murtyzayyan@example.com,9.16809E+11,Mango,Tripura,31-12-2023
+43,Amara Deep,raksha71@example.org,9324808613,Surendranagar Dudhrej,Bihar,07-04-2025
+44,Wishi Manne,ojasvi77@example.org,8263982146,Guna,Himachal Pradesh,19-08-2025
+45,Barkha Misra,cdixit@example.net,5588675339,Muzaffarpur,West Bengal,15-07-2025
+46,Caleb Nadkarni,yraj@example.net,2702895171,Kanpur,Telangana,11-03-2024
+47,Mohammed Borde,vlanka@example.net,6158657809,Noida,Rajasthan,05-05-2025
+48,Utkarsh Chana,wchaudhari@example.net,1724005045,Chinsurah,Chhattisgarh,28-05-2024
+49,Pranit Garde,farhanraja@example.net,3792374740,Tumkur,Sikkim,18-01-2025
+50,Ethan Sathe,chandani64@example.com,3671369594,Lucknow,Uttarakhand,15-04-2025
+51,Anvi Anand,tanejabhavini@example.org,5339421047,Adoni,Kerala,11-06-2025
+52,Gautam Merchant,ojasvi23@example.org,5884247451,Aurangabad,Chhattisgarh,28-06-2025
+53,Mekhala Pau,ranaakshay@example.com,1754965137,Udupi,Nagaland,01-08-2024
+54,Dev Shetty,nilima12@example.org,9.14711E+11,Dharmavaram,Telangana,07-06-2025
+55,Oeshi Chaudhary,rreddy@example.org,5377351585,Sikar,Himachal Pradesh,16-04-2024
+56,Suhani Chand,anshbedi@example.com,9.12932E+11,Kavali,Andhra Pradesh,23-06-2024
+57,Kalpit Zachariah,owen10@example.org,9.15395E+11,Rajkot,Meghalaya,03-11-2024
+58,Yochana Chopra,othakur@example.net,9.1847E+11,Srinagar,Assam,28-07-2024
+59,Dominic Date,ekta69@example.net,7896118367,Haridwar,Karnataka,24-08-2025
+60,Mohini Sagar,munshiprisha@example.com,4527111161,Bikaner,Nagaland,06-01-2024
+61,Jason Roy,pallavi04@example.net,5198327315,Raipur,Tripura,24-06-2024
+62,Pushti Bal,ayush24@example.net,5502296120,Bettiah,Gujarat,08-09-2024
+63,Sudiksha Om,kalamuni@example.net,9910229014,Khandwa,Meghalaya,06-03-2025
+64,Oeshi Mahajan,yauvanicomar@example.com,1497840369,Chennai,Gujarat,12-07-2024
+65,Laksh Kumer,falak10@example.com,6226838851,Kalyan-Dombivli,Maharashtra,05-12-2023
+66,Faras Munshi,travel@example.net,4160529751,Aligarh,Haryana,24-10-2024
+67,Farhan Randhawa,harinakshi35@example.org,9.18188E+11,Bardhaman,Gujarat,03-04-2024
+68,Faqid Goel,wshetty@example.net,7995527177,Panipat,Odisha,03-01-2024
+69,Yashica Borah,triya70@example.org,4119986798,Hospet,Uttar Pradesh,07-02-2025
+70,Ekanta Soni,davidseshadri@example.org,1820377889,Bharatpur,Kerala,02-11-2025
+71,Lila Rege,charles51@example.com,9.18645E+11,Tirupati,Rajasthan,16-05-2025
+72,Kai Chad,krisha52@example.net,8168505423,Shivpuri,Gujarat,14-05-2024
+73,Mohammed Brahmbhatt,harrison88@example.net,592962229,Bahraich,Arunachal Pradesh,05-10-2024
+74,Wazir Sawhney,saumya38@example.org,7359774688,Nanded,Uttarakhand,24-04-2024
+75,Zashil Ben,jprabhu@example.org,8141247826,Korba,Uttarakhand,05-11-2024
+76,Avi Sachdeva,randhawayadavi@example.com,9.16153E+11,Baranagar,Uttarakhand,21-11-2024
+77,Upasna Sen,buchanirudh@example.com,9.12899E+11,Mathura,Maharashtra,31-03-2025
+78,Dev Choudhry,bwason@example.net,9324609539,Gaya,Sikkim,23-04-2025
+79,Jalsa Bir,ramakrishnanupma@example.org,6540515319,Guntur,Arunachal Pradesh,20-08-2024
+80,Parth Shetty,zgopal@example.org,9.17043E+11,Tinsukia,Meghalaya,04-06-2024
+81,Rayaan Mangal,champak54@example.org,6676527758,Gwalior,Telangana,15-10-2024
+82,Qushi Gole,ekani11@example.com,4479627570,Srikakulam,Maharashtra,21-06-2024
+83,Falan Ravi,yochana20@example.org,7021355690,Hospet,Kerala,04-09-2024
+84,Faraj Devan,mitali54@example.org,9.10279E+11,Pudukkottai,Jharkhand,13-05-2025
+85,Ryan Das,ethanseth@example.org,7155188442,Mirzapur,Mizoram,13-05-2024
+86,Sai Dewan,wakeetabal@example.com,9578291146,Hajipur,Maharashtra,10-07-2025
+87,Ethan Dass,ethan77@example.net,5289226801,Avadi,Goa,25-03-2024
+88,Umang Pal,farhan43@example.net,4249818299,Tirunelveli,Sikkim,20-03-2025
+89,Benjamin Balakrishnan,bathalka@example.net,9.19691E+11,Bihar Sharif,Manipur,16-01-2024
+90,Nakul Sarraf,dsule@example.org,9255562588,Imphal,Haryana,17-11-2024
+91,Amara Sengupta,lohitchatterjee@example.org,6963259532,Kottayam,Manipur,12-12-2024
+92,Widisha Bajaj,ramaswamyyashasvi@example.com,9.1395E+11,Moradabad,Maharashtra,04-03-2024
+93,Jasmit Rau,chakradev60@example.net,3584168784,Warangal,Bihar,21-09-2024
+94,Harinakshi Pau,rushilupadhyay@example.com,2578729,Khammam,Punjab,25-07-2024
+95,Maya Mistry,yashica88@example.com,9470551694,Kavali,Meghalaya,14-06-2024
+96,Charan Srinivasan,lajitadivan@example.net,9.10913E+11,Bulandshahr,Mizoram,14-07-2025
+97,David Devi,ektasridhar@example.net,5278585497,Shahjahanpur,Himachal Pradesh,27-01-2025
+98,Umang Mishra,sarthak75@example.com,8441986652,Kalyan-Dombivli,Jharkhand,28-05-2025
+99,Hiral Sathe,varenya33@example.net,8421993308,Muzaffarpur,Arunachal Pradesh,06-02-2024
+100,Ganga Sodhi,devanabdul@example.net,9.16773E+11,Deoghar,Telangana,04-06-2025
